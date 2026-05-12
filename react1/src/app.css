@@ -1,0 +1,39 @@
+.project-card {
+  width: 500px;
+  margin: 40 px auto;
+  padding: 20px;
+  boarder-radius: 10px;
+  background-color: azure;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  font-family: Arial, Helvetica, sans-serif; 
+}
+<!-- hitta färger och format jag vill ha -->
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.project-card h2 {
+  margin-top: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.project-card p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+

@@ -15,7 +15,7 @@ return (
 
 <h2>{projectname}</h2>
 
-<img src={screenshot} alt={projectname} />
+<img src={screenshot} alt={projectname} /> //lägg till storlek på bilden om de behövs
 
 <a href={githudRepo}>GitHub Repository link</a>
 
@@ -33,3 +33,5 @@ return (
 
 </div>
 );
+
+export default Component;
