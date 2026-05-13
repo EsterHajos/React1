@@ -2,6 +2,7 @@
   width: 500px;
   margin: 40 px auto;
   padding: 20px;
+  boarder: 1px solid #ddd;
   boarder-radius: 10px;
   background-color: azure;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
